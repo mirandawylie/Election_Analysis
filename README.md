@@ -3,11 +3,11 @@
 ## Project Overview
 The Colorado Board of Elections requested an audit of a recent local congressional election. The following results were complied.
 
-1. Calculate the total number of votes cast
-2. Get a complete list of candidates who received votes
-3. Calculate the total number of votes each candidate received
-4. Calculate the percentage of votes each candidate won
-5. Determine the winner of the election based on popular vote
+1. The total number of votes cast
+2. Breakdown of the number of votes and the percentage of total votes for each county in the precinct
+3. The county with the largest voter turnout
+4. Breakdown of the number of votes and the percentage of the total votes each candidate received
+5. Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
 ## Resources
 Data Source: election_results.csv
