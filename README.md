@@ -9,6 +9,8 @@ The Colorado Board of Elections requested an audit of a recent local congression
 * Breakdown of the number of votes and the percentage of the total votes each candidate received
 * Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 
+Link to election data source: https://github.com/mirandawylie/election-analysis/blob/39cd0a149d9f51a91857ef993907d48588810aef/Resources/election_results.csv
+
 ## Results
 The analysis of the election shows that:
 
@@ -24,6 +26,11 @@ The analysis of the election shows that:
 	- Raymon Anthony Doane: 3.1% (11,606)
 * Winner
 	- Diana DeGette, 272,892 vote count and 73.8% percentage of the total votes
+
+![Election_Results.png](images/Election_Results.png)
+![Election_Results_Code_1.png](images/Election_Results_Code_1.png)
+![Election_Results_Code_2.png](images/Election_Results_Code_2.png)
+![Election_Results_Code_3.png](images/Election_Results_Code_3.png)
 
 ## Summary
 This election analysis audit proves to be a powerful tool to understand the recent Colorado local congressional election and can be used for any election with additional outcomes offerings.
